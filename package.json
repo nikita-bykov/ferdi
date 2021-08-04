@@ -134,7 +134,7 @@
     "tar": "4.4.15",
     "targz": "1.0.1",
     "terser": "4.4.0",
-    "useragent-generator": "1.1.1-amkt-22079-finish.0",
+    "useragent-generator": "vraravam/useragent-generator#upgrade-constants",
     "uuid": "3.3.3",
     "validator": "11.0.0",
     "ws": "7.4.6"
